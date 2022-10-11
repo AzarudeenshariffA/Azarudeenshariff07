@@ -4,7 +4,7 @@ Hi 👋 My name is Azarudeen Shariff A
 Web Developer | App Developer & Ethical Hacker
 ------------------------------------
 
-Web Developer And A Ethical Hacker With Interests In HTML, CSS, JavaScript, Python, Java And Markdown Language Beside Coding I love To Work On Technology,Drawing And Repairing
+Web Developer And A Ethical Hacker With Interests In HTML, CSS, JavaScript, Python, C,C++,DSA And Markdown Language Beside Coding I love To Work On Technology,Drawing And Repairing
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [Clickhere](https://azarudeenshariff07.github.io/portfolio/)
@@ -18,6 +18,7 @@ Web Developer And A Ethical Hacker With Interests In HTML, CSS, JavaScript, Pyth
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
