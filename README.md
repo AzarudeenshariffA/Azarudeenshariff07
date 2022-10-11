@@ -8,6 +8,7 @@ Web Developer And A Ethical Hacker With Interests In HTML, CSS, JavaScript, Pyth
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [Clickhere](https://azarudeenshariff07.github.io/portfolio/)
+* 🖥️  See my template_portfolio at [Clickhere](https://athenasquare.org/azarudeenshariff07)
 * ✉️  You can contact me at [azarudeenshariff07@gmail.com](mailto:azarudeenshariff07@gmail.com)
 * 🚀  I'm currently working on DSA PROJECTS
 * 🧠  I'm learning ReactJs, CCNA And Web3.0
